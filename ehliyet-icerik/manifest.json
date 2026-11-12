@@ -1,0 +1,30 @@
+{
+ "surum": "2026.11.12.0811",
+ "min_uygulama": "0.1",
+ "dosyalar": [
+  {
+   "ad": "dersler.json",
+   "sha256": "e6a8cc66eb4b0c5b3ac21a27e80e8d81818b136c04b069d7ad743281c46cc85d"
+  },
+  {
+   "ad": "sahneler.json",
+   "sha256": "220c35c7b2838e5d9fe0a407ad06e427f4c8deabe30329088fb7c9fb3577d24a"
+  },
+  {
+   "ad": "sinav-kurallari.json",
+   "sha256": "3df324ff1b4302dc4313e4efbddfe81895b2e88823204db349aa84086a22b58a"
+  },
+  {
+   "ad": "taslak-001.json",
+   "sha256": "c2b3c02a1dfe2165abd9b06206bb0660c432a2bcc05ef2cd6a61fbb49d9bf997"
+  },
+  {
+   "ad": "taslak-002.json",
+   "sha256": "39e818dd7cb8c8b63811fad1e6a6099ab7d367fd6155417d18a1981637d41c1f"
+  },
+  {
+   "ad": "taslak-003.json",
+   "sha256": "f9bbbaa5e637ae2e3b45e286923c08a57f58b99832b8cc951313c51a6269e61d"
+  }
+ ]
+}

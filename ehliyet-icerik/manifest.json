@@ -1,10 +1,10 @@
 {
- "surum": "2026.11.13.1718",
+ "surum": "2026.11.13.1811",
  "min_uygulama": "0.1",
  "dosyalar": [
   {
    "ad": "dersler.json",
-   "sha256": "33f5ea9e4eed64701f6eecfde4b94c5e1b002ef219129571c5c9c0ef2636ca0d"
+   "sha256": "065ef52ad077e8438bc600fc966b9038cccb19632944acf586b99cf7f0d097ef"
   },
   {
    "ad": "ipuclari.json",
@@ -32,19 +32,19 @@
   },
   {
    "ad": "taslak-001.json",
-   "sha256": "f9115a3ef3c15415aa370f1e169b45224ca76c5007149f60c0d458d5eb06220a"
+   "sha256": "e52c4f2a023a1f61c7c991b9814104b686ddd7c2cfa613cc6d8f043cc83021c0"
   },
   {
    "ad": "taslak-002.json",
-   "sha256": "a34210f886c2349a8c13e4978d5a04fe44ee344e9e9dd976817888ba48dc2919"
+   "sha256": "f76be3dcf84c738258c37a3cb9a1bf1bc6f8f4da783b48544e1b03334595d0d5"
   },
   {
    "ad": "taslak-003.json",
-   "sha256": "bac3d55fe4b68d7db2d457dd0929a7a43f83dfc09052ed622d49eea2fece518e"
+   "sha256": "25963c345230233724f1bc4f0742a6c2a0125f22ad7e2ea299e3bc8565194b6d"
   },
   {
    "ad": "taslak-004.json",
-   "sha256": "4b42c46ee250c1fdcfce988ec5a984cc0239f3b1b69807af3fd9d373b8e501a5"
+   "sha256": "96a2d055022e5f47acca4dd14ef751c5c641f1d025b4dfad2aee788125b18d0f"
   },
   {
    "ad": "taslak-005.json",
@@ -52,23 +52,27 @@
   },
   {
    "ad": "taslak-006.json",
-   "sha256": "934442ea6fc50c62dd8f1a31423c7c26a568c2b004aeb7a51e86062215078f12"
+   "sha256": "804d81a5a845ff0927ff7b4c50bcacfe914b14c250decbfdddbcdfbbde39153c"
   },
   {
    "ad": "taslak-007.json",
-   "sha256": "52025ba9fb30e45784341ee4a99d61c5c7aabfbfbb251a57d842b2ead97d51fe"
+   "sha256": "91f0253d02bb467a3df7bcb8f3f299678e5437bac04f52f340932979235dbb20"
   },
   {
    "ad": "taslak-008.json",
-   "sha256": "cc2e5864278ab6ac87b28d9471c7c3ba4931d3bb5eb27a21e3cb50b93d660dd8"
+   "sha256": "4f383f9a4ec1efb61526b55527748da58b6e8ea78cf26736d2369182df1ce4d9"
   },
   {
    "ad": "taslak-009.json",
-   "sha256": "352326579312c21e6a1df78fcc9e09055b53f6c38301995ee3efba59068093c2"
+   "sha256": "ef07473b760ba94b9246c3f04c40987ec34ccb0d632e8d562df7d84e8f24f26b"
   },
   {
    "ad": "taslak-010.json",
-   "sha256": "fc701091fb1513feddd34f2b9f031378d76d6a72539251b5e1b03d718ce6f7f7"
+   "sha256": "44c831d602b1b8ebffd6cbdebe79cd0869b1c76787357ab3f4dc1893b274700f"
+  },
+  {
+   "ad": "taslak-011.json",
+   "sha256": "e19a79c5d9c21bfcf0173b82503f5ecfa1c5ba8918c805cc20257777feb179be"
   }
  ]
 }

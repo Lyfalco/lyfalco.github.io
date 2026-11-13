@@ -1,14 +1,18 @@
 {
- "surum": "2026.11.13.0242",
+ "surum": "2026.11.13.0519",
  "min_uygulama": "0.1",
  "dosyalar": [
   {
    "ad": "dersler.json",
-   "sha256": "dbec413724a154cd5a11cba6ad29d984af4bc3995b12f5fdd86d470f7b0b7f2d"
+   "sha256": "c7562767fafcbc82c63ec27106d89f02f16dc378361e929d510501c909122478"
   },
   {
    "ad": "ipuclari.json",
    "sha256": "c2736f8bb55e6007c197ef61730e74896b368e3785c80e7072741c00f15f036a"
+  },
+  {
+   "ad": "isaretler.json",
+   "sha256": "4ab559e4abdbcc287e7ed2cb2d52bfdebc1241efb4d2908959f0c79378004d45"
   },
   {
    "ad": "kartlar.json",
@@ -19,16 +23,20 @@
    "sha256": "220c35c7b2838e5d9fe0a407ad06e427f4c8deabe30329088fb7c9fb3577d24a"
   },
   {
+   "ad": "sik-konular.json",
+   "sha256": "d6fee0d18fe85bc1dbcd25f119371e200667226a201745849f35f44263632416"
+  },
+  {
    "ad": "sinav-kurallari.json",
    "sha256": "3df324ff1b4302dc4313e4efbddfe81895b2e88823204db349aa84086a22b58a"
   },
   {
    "ad": "taslak-001.json",
-   "sha256": "a100790a12c89cc6164de3f1fca287a9e929f78bfc5d2af64d897bef14c5572c"
+   "sha256": "4716361122f86b9edb4a7c78310743c1976cf2306f7b90d659422958cd9754f3"
   },
   {
    "ad": "taslak-002.json",
-   "sha256": "4a33446873ab6ef125cdecf8188e7c7b215192c172162bf92bf2d67faa072361"
+   "sha256": "c2587623c0ffabfa0cf7b07fe797be6523d8f04d2f06878b9c1da9468aa8a7f0"
   },
   {
    "ad": "taslak-003.json",
@@ -36,7 +44,23 @@
   },
   {
    "ad": "taslak-004.json",
-   "sha256": "6fe1ecf5d439107b745229d233815f61b441b0e4973a50049cafb3785188fab4"
+   "sha256": "1bcefc8df743aad319f66bc6e48c6d65e25174db77efdae815d2aef746396ba4"
+  },
+  {
+   "ad": "taslak-005.json",
+   "sha256": "9ffccac2909abaf8ca259186bcb58f1263eecb6f25d3dd85eeb99a49204f611e"
+  },
+  {
+   "ad": "taslak-006.json",
+   "sha256": "d08e6023e9e7bd760fa7375d3d2ecf210c48a5fc5c2a9e3ebb6a0a1ed754f62d"
+  },
+  {
+   "ad": "taslak-007.json",
+   "sha256": "429070f5c2b6ce8f9d34fa10e7f2ef5ae1e5a2dde739a07874d2c4a62bd31937"
+  },
+  {
+   "ad": "taslak-008.json",
+   "sha256": "910c066251d2513ddec821a9dfb9c2e9a59999c82652f6d3ba3f874c88cd5496"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
- "surum": "2026.11.13.1024",
+ "surum": "2026.11.13.1718",
  "min_uygulama": "0.1",
  "dosyalar": [
   {
    "ad": "dersler.json",
-   "sha256": "0b706bc818df1339a73e95949ea8b50c9bc85db5bde3987a993312304bcc0e3a"
+   "sha256": "33f5ea9e4eed64701f6eecfde4b94c5e1b002ef219129571c5c9c0ef2636ca0d"
   },
   {
    "ad": "ipuclari.json",
-   "sha256": "c2736f8bb55e6007c197ef61730e74896b368e3785c80e7072741c00f15f036a"
+   "sha256": "8b818508b109c0ad48517c110b570bd5ffacf8235154ceebdcd517d5f7695b79"
   },
   {
    "ad": "isaretler.json",
-   "sha256": "4ab559e4abdbcc287e7ed2cb2d52bfdebc1241efb4d2908959f0c79378004d45"
+   "sha256": "3a99175f279e20437ff840b5ee4a554e4e790a03e3cf113859570d7ca3cb6a07"
   },
   {
    "ad": "kartlar.json",
-   "sha256": "970fe997a539d5077b8998053e6d8ce085de2e37a4000c6f872d5d8177ff2c90"
+   "sha256": "5c88e08574a6603c4c36a88713158000906329a495ea8c701d70fdab636d64e6"
   },
   {
    "ad": "sahneler.json",
@@ -32,35 +32,43 @@
   },
   {
    "ad": "taslak-001.json",
-   "sha256": "f886735a1eeb971fd03829f004e27e67f45c8f3a52a3da95698c9b9fd15930ce"
+   "sha256": "f9115a3ef3c15415aa370f1e169b45224ca76c5007149f60c0d458d5eb06220a"
   },
   {
    "ad": "taslak-002.json",
-   "sha256": "9f3030fef9e19dfa20f09cae5996bd8c89732b11a6441660a3d12517a4dca140"
+   "sha256": "a34210f886c2349a8c13e4978d5a04fe44ee344e9e9dd976817888ba48dc2919"
   },
   {
    "ad": "taslak-003.json",
-   "sha256": "6e9a0fc416c73235dbff6eecd3eb3ec49d032148af344266c9337f130928800a"
+   "sha256": "bac3d55fe4b68d7db2d457dd0929a7a43f83dfc09052ed622d49eea2fece518e"
   },
   {
    "ad": "taslak-004.json",
-   "sha256": "08985bef8ee2275b6c2c59ef3c503fadfaf11c0fd448fbb7a4b59646e988afd1"
+   "sha256": "4b42c46ee250c1fdcfce988ec5a984cc0239f3b1b69807af3fd9d373b8e501a5"
   },
   {
    "ad": "taslak-005.json",
-   "sha256": "9ffccac2909abaf8ca259186bcb58f1263eecb6f25d3dd85eeb99a49204f611e"
+   "sha256": "8fbe6de63119d8b0422b9d2f53dbc564ea4f6be136e90d09305fdad135d289b8"
   },
   {
    "ad": "taslak-006.json",
-   "sha256": "ae9f44a10c33b2cc18c5ad3c9d21eabdacf439378665a79c950e45b850a75f86"
+   "sha256": "934442ea6fc50c62dd8f1a31423c7c26a568c2b004aeb7a51e86062215078f12"
   },
   {
    "ad": "taslak-007.json",
-   "sha256": "d20e007a8b0bd27c7e4b4230f19ddaf07dd4f7684fe1cf5e0f3224be0b746471"
+   "sha256": "52025ba9fb30e45784341ee4a99d61c5c7aabfbfbb251a57d842b2ead97d51fe"
   },
   {
    "ad": "taslak-008.json",
-   "sha256": "bfeb9602f70972d7abac791e8883160990a7da8e1146a3bd6c0c6d42f26817ba"
+   "sha256": "cc2e5864278ab6ac87b28d9471c7c3ba4931d3bb5eb27a21e3cb50b93d660dd8"
+  },
+  {
+   "ad": "taslak-009.json",
+   "sha256": "352326579312c21e6a1df78fcc9e09055b53f6c38301995ee3efba59068093c2"
+  },
+  {
+   "ad": "taslak-010.json",
+   "sha256": "fc701091fb1513feddd34f2b9f031378d76d6a72539251b5e1b03d718ce6f7f7"
   }
  ]
 }

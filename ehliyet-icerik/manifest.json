@@ -1,10 +1,18 @@
 {
- "surum": "2026.11.13.0231",
+ "surum": "2026.11.13.0242",
  "min_uygulama": "0.1",
  "dosyalar": [
   {
    "ad": "dersler.json",
-   "sha256": "fe2b09e50e20b3a914369c4d077c8b579ccf40925b9fa2493b13e06c0b008b62"
+   "sha256": "dbec413724a154cd5a11cba6ad29d984af4bc3995b12f5fdd86d470f7b0b7f2d"
+  },
+  {
+   "ad": "ipuclari.json",
+   "sha256": "c2736f8bb55e6007c197ef61730e74896b368e3785c80e7072741c00f15f036a"
+  },
+  {
+   "ad": "kartlar.json",
+   "sha256": "970fe997a539d5077b8998053e6d8ce085de2e37a4000c6f872d5d8177ff2c90"
   },
   {
    "ad": "sahneler.json",

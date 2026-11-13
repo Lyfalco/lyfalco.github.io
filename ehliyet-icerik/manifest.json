@@ -1,10 +1,10 @@
 {
- "surum": "2026.11.12.0811",
+ "surum": "2026.11.13.0231",
  "min_uygulama": "0.1",
  "dosyalar": [
   {
    "ad": "dersler.json",
-   "sha256": "e6a8cc66eb4b0c5b3ac21a27e80e8d81818b136c04b069d7ad743281c46cc85d"
+   "sha256": "fe2b09e50e20b3a914369c4d077c8b579ccf40925b9fa2493b13e06c0b008b62"
   },
   {
    "ad": "sahneler.json",
@@ -16,15 +16,19 @@
   },
   {
    "ad": "taslak-001.json",
-   "sha256": "c2b3c02a1dfe2165abd9b06206bb0660c432a2bcc05ef2cd6a61fbb49d9bf997"
+   "sha256": "a100790a12c89cc6164de3f1fca287a9e929f78bfc5d2af64d897bef14c5572c"
   },
   {
    "ad": "taslak-002.json",
-   "sha256": "39e818dd7cb8c8b63811fad1e6a6099ab7d367fd6155417d18a1981637d41c1f"
+   "sha256": "4a33446873ab6ef125cdecf8188e7c7b215192c172162bf92bf2d67faa072361"
   },
   {
    "ad": "taslak-003.json",
-   "sha256": "f9bbbaa5e637ae2e3b45e286923c08a57f58b99832b8cc951313c51a6269e61d"
+   "sha256": "6e9a0fc416c73235dbff6eecd3eb3ec49d032148af344266c9337f130928800a"
+  },
+  {
+   "ad": "taslak-004.json",
+   "sha256": "6fe1ecf5d439107b745229d233815f61b441b0e4973a50049cafb3785188fab4"
   }
  ]
 }
